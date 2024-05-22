@@ -29,7 +29,7 @@
   "repository": "aframevr/aframe",
   "license": "MIT",
   "dependencies": {
-    "browserify-css": "^0.8.2",
+    "browserify-css": "^0.15.0",
     "debug": "ngokevin/debug#noTimestamp",
     "deep-assign": "^2.0.0",
     "document-register-element": "dmarcos/document-register-element#8ccc532b7",
